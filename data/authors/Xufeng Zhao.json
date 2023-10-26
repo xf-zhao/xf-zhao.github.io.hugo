@@ -1,0 +1,13 @@
+{
+    "name": "Xufeng Zhao",
+    "image" : "img/xufeng_avatar.jpg",
+    "bio": "Open to collaborations",
+    "social": [
+        { "email": "mailto:xfz.zhao@gmail.com" },
+        { "linkedin": "https://linkedin.com/in/xufeng-zhao-961a82286" },
+        { "twitter": "https://twitter.com/XfzZhao" },
+        { "medium": "https://medium.com/@xf-zhao" },
+        { "github": "https://github.com/xf-zhao" },
+        { "graduation-cap": "https://scholar.google.com/citations?user=sLwQ22MAAAAJ" }
+    ]
+}

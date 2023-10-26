@@ -1,0 +1,14 @@
+{
+    "name": "Mengdi Li",
+    "image" : "",
+    "image_link" : "https://mengdi-li.github.io/images/mengdi_photo_circle.png",
+    "bio": "Open to work",
+    "social": [
+        { "email": "mailto:li_mengdi@hotmail.com" },
+        { "linkedin": "https://linkedin.com/in/limengdi2" },
+        { "twitter": "https://twitter.com/limengdi2" },
+        { "github": "https://github.com/mengdi-li/" },
+        { "graduation-cap": "https://scholar.google.com/citations?user=0W7UjrcAAAAJ" },
+        {"link":"https://mengdi-li.github.io/"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Cornelius",
+    "image" : "",
+    "image_link": "https://i1.rgstatic.net/ii/profile.image/1171518969122817-1656323296526_Q512/Cornelius-Weber.jpg",
+    "bio": "",
+    "social": [
+        { "email": "mailto:cornelius.weber@uni-hamburg.de" },
+        { "graduation-cap": "https://scholar.google.de/citations?user=9caowmUAAAAJ&hl=de"},
+        {"link":"https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/weber.html"}
+    ]
+}

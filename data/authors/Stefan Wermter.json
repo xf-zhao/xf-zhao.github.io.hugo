@@ -1,0 +1,12 @@
+{
+    "name": "Stefan Wermter",
+    "image" : "",
+    "image_link" : "https://assets.rrz.uni-hamburg.de/instance_assets/fakmin/4033207/wermter-180x240-8cbec5635da2ea64077b4f3d065c502d58ecdc17.jpg",
+    "bio": "Open to work",
+    "social": [
+        { "email": "mailto:stefan.wermter@uni-hamburg.de" },
+        { "linkedin": "https://www.linkedin.com/in/stefan-wermter/" },
+        { "graduation-cap": "https://scholar.google.de/citations?user=uIeaxuAAAAAJ&hl=en" },
+        {"link":"https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/wermter.html"}
+    ]
+}

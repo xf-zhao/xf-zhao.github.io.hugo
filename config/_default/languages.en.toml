@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Xufeng Zhao"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/squirtle_circle_transparent.png"
+  # secondaryLogo = "PATH"
+  # description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Xufeng Zhao"
+  image = "img/xufeng_avatar.jpg"
+  headline = "I'm actively looking for collaboration/visiting oppotunities in **LLMs+Robotics**"
+  bio = ""
+  links = [
+        { "email"= "mailto:xfz.zhao@gmail.com" },
+        { "linkedin"= "https://linkedin.com/in/xufeng-zhao-961a82286" },
+        { "twitter"= "https://twitter.com/XfzZhao" },
+        { "github"= "https://github.com/xf-zhao" },
+        { "graduation-cap"= "https://scholar.google.com/citations?user=sLwQ22MAAAAJ" }
+  ]
+
+  
