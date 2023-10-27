@@ -1,0 +1,13 @@
+{
+    "name": "Kun Chu",
+    "image" : "",
+    "image_link": "https://kchu.github.io/images/self.png",
+    "bio": "",
+    "social": [
+        { "email": "mailto:kun.chu@uni-hamburg.de" },
+        {"github":"https://github.com/kchu"},
+        {"linkedin":"https://www.linkedin.com/in/kunchu"},
+        {"link":"https://kchu.github.io/"},
+        {"graduation-cap":"https://scholar.google.com/citations?user=CwtjvhUAAAAJ&hl=en&oi=sra"}
+    ]
+}

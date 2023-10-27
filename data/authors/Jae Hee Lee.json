@@ -1,0 +1,11 @@
+{
+    "name": "Jae Hee Lee",
+    "image" : "",
+    "image_link" : "https://jaeheelee.gitlab.io/images/jae.jpg",
+    "bio": "",
+    "social": [
+        { "email": "mailto:jae@jaeheelee.de" },
+        { "graduation-cap": "https://scholar.google.com/citations?user=QNTE6VMAAAAJ&view_op=list_works&sortby=pubdate" },
+        {"link":"https://jaeheelee.gitlab.io/"}
+    ]
+}
