@@ -6,8 +6,8 @@ description: In 40th International Conference on Machine Learning (ICML), Jul 20
 tags: [reinforcement learning, robotics, conference paper, active perception, information theory]
 series: ["publication"]
 authors:
-  - Mengdi Li*
-  - Xufeng Zhao*
+  - Mengdi Li
+  - Xufeng Zhao
   - Jae Hee Lee
   - Cornelius Weber
   - Stefan Wermter
