@@ -18,6 +18,5 @@ series_order: 198
 ---
 
 {{< lead >}}
-<a href="asdf">🌐 project page</a> / 🥷🏻️ code / 🎬️ video / 📄 arXiv / 🌄 poster / 🦜️ slides.
+<a href="logi-cot.github.io">🌐 project page</a> / 🥷🏻️ code to come / <a href="https://arxiv.org/abs/2309.13339"> 📄 arXiv </a>. 
 {{< /lead >}}
-
